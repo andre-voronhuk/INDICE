@@ -1,14 +1,15 @@
 # Aqui estão os principais sites!
 <details>
-<summary>## Detalhes</summary>
+<summary>Descrição</summary>
   Aqui estão os principais sites que foram feitos por mim, 
   estão sendo frequentemente atualizados, os projetos 
   futuros também serão adicionados aqui!
 
 
 
-
+<br><br><br>
 </details>
+<br><br><br>
 
 # Pet-Shop: https://andre-voronhuk.github.io/petshop/index.html
 ## site sobre um Pet-Shop ficticio <br><br>
