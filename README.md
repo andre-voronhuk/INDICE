@@ -146,7 +146,7 @@
 <h2>  Abaixo estão os links para os REPOSITORIOS dos projetos <h2
 
 
-[Git](https://github.com/andre-voronhuk/git)<br><br>
+[Git](https://github.com/andre-voronhuk/DWEB/blob/main/RDE06-Andre_Voronhuk_Git.html)<br><br>
 [Mi-Au Pet-Shop](https://github.com/andre-voronhuk/petshop) <br><br>
 [Loja X](https://github.com/andre-voronhuk/loja) <br><br>
 [Quadrados](https://github.com/andre-voronhuk/quadrados)<br><br>
