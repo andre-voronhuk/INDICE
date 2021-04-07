@@ -1,4 +1,4 @@
-# INDICE, aqui estão os principais sites!
+# Aqui estão os principais sites!
 
 # Pet-Shop: https://andre-voronhuk.github.io/petshop/index.html
 ## site sobre um Pet-Shop ficticio <br><br>
