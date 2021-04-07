@@ -1,4 +1,4 @@
-# Uhu, voce achou o indice do meus projetos :)
+# Olha que legal! Você achou o indice do meus projetos :)
 
 
   <h4> Aqui estão os principais sites que foram feitos por mim, eles
@@ -33,9 +33,10 @@
 
 <br>
 </details>
+<br><br>
 
 
-# [Loja X](https://andre-voronhuk.github.io/loja/)
+## [Loja X](https://andre-voronhuk.github.io/loja/)
 <details>
 <summary>Descrição</summary>
 
@@ -49,6 +50,7 @@
 
 <br>
 </details>
+<br><br>
 
 
 # QUADRADOS:  https://andre-voronhuk.github.io/quadrados/
