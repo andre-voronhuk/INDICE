@@ -1,4 +1,11 @@
 # Aqui estão os principais sites!
+<details>
+<summary>Detalhes</summary>
+
+- [Why markdown?](#why-markdown)
+
+
+</details>
 
 # Pet-Shop: https://andre-voronhuk.github.io/petshop/index.html
 ## site sobre um Pet-Shop ficticio <br><br>
