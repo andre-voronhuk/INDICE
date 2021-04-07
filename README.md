@@ -123,7 +123,7 @@
 <summary>Descrição</summary>
 
   <h4>
-   Esse site foi desenvolvido tambem acompanhando um 'Code Drops' da RockeatSeat, mas dessa vez, um Code Drops focado no Design (até que enfim né? chega de site feio)
+   Esse site foi desenvolvido tambem acompanhando um 'Code Drops' da RocketSeat <br>Mas dessa vez, um Code Drops focado no Design (até que enfim né? chega de site feio)
    <br><br>
    Para fazer essa animação bonita nas tabs, foi utilizado JavaScript (sim, denovo kkk) <br><br>
    O site utiliza JS para alterar o estilo e tambem para capturar quando o usuario clica ou passa seu mouse sobre uma guia, e então dispara a animação correspondente
