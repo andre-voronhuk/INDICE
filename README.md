@@ -35,7 +35,11 @@
 <br>
 </details>
 <br><br>
-## [Faculdade - Web](https://andre-voronhuk.github.io/DWEB/index.html)
+
+<h2> 
+  [Faculdade](https://andre-voronhuk.github.io/DWEB/index.html) 
+</h2>
+
 <details>
 <summary>Descrição</summary>
 
