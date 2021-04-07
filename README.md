@@ -1,6 +1,6 @@
 # Aqui estão os principais sites!
 
-<summary>Descrição</summary>
+
   <h4> Aqui estão os principais sites que foram feitos por mim, eles
   estão sendo frequentemente atualizados e os projetos 
     futuros também serão adicionados aqui! </h4>
