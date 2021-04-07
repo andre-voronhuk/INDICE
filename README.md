@@ -1,4 +1,4 @@
-# Aqui estão os principais sites!
+# Uhu, voce achou o indice do meus projetos :)
 
 
   <h4> Aqui estão os principais sites que foram feitos por mim, eles
@@ -13,7 +13,7 @@
 <summary>Descrição</summary>
 
   <h4>
-    Este é um site do 'Mi-Au' Pet-Shop, um petshop ficticio  criado com o intuito de praticar as 
+    Este é o site do 'Mi-Au' Pet-Shop, um petshop ficticio  criado com o intuito de praticar as 
   tecnologias ja conhecidas por mim, mas tambem para aprender coisas novas, nesse caso aprimorar as habilidades com CSS!
 
 </h4>
