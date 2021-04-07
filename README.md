@@ -1,12 +1,11 @@
 # Aqui estão os principais sites!
 <details>
-<summary>Detalhes</summary>
+<summary>## Detalhes</summary>
+  Aqui estão os principais sites que foram feitos por mim, 
+  estão sendo frequentemente atualizados, os projetos 
+  futuros também serão adicionados aqui!
 
-testte
-# teste
-testando
 
-<h1>testando </h1>
 
 
 </details>
