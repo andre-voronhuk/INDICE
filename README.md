@@ -36,9 +36,8 @@
 </details>
 <br><br>
 
-<h2> 
-  [Faculdade](https://andre-voronhuk.github.io/DWEB/index.html) 
-</h2>
+## [Faculdade](https://andre-voronhuk.github.io/DWEB/)
+
 
 <details>
 <summary>Descrição</summary>
