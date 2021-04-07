@@ -10,6 +10,7 @@
 <br><br><br>
 
 # Pet-Shop: https://andre-voronhuk.github.io/petshop/index.html
+<details>
 <summary>Descrição</summary>
 
   <h4>
