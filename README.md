@@ -140,6 +140,18 @@
 <br>
 </details><br><br>
 
+<hr>
+# Atenção!
+## Abaixo estão os links para os REPOSITORIOS dos projetos
+## Os links acima, são do GitHub-Pages apenas.
 
-
+[Git](https://github.com/andre-voronhuk/git)<br><br>
+[Mi-Au Pet-Shop](https://github.com/andre-voronhuk/petshop) <br><br>
+[Loja X](https://github.com/andre-voronhuk/loja) <br><br>
+[Quadrados](https://github.com/andre-voronhuk/quadrados)<br><br>
+[Lista de Tarefas (to-Do List)](https://github.com/andre-voronhuk/listaDeTarefas/)<br><br>
+[Promise (maioriadade)](https://github.com/andre-voronhuk/promise)<br><br>
+[Tabs Animadas](https://github.com/andre-voronhuk/HowProgram)<br><br>
+<hr>
+### Obrigado por chegar até aqui :smile::heart:
 
