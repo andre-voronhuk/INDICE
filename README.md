@@ -1,7 +1,7 @@
 # Aqui estão os principais sites!
 <details>
 <summary>Descrição</summary>
-  ##  Aqui estão os principais sites que foram feitos por mim, eles
+  ## Aqui estão os principais sites que foram feitos por mim, eles
   estão sendo frequentemente atualizados e os projetos 
   futuros também serão adicionados aqui!
 
