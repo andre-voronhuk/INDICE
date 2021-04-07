@@ -5,14 +5,22 @@
   estão sendo frequentemente atualizados e os projetos 
     futuros também serão adicionados aqui! </h4>
 
-
-
 <br>
 </details>
 <br><br><br>
 
 # Pet-Shop: https://andre-voronhuk.github.io/petshop/index.html
-## site sobre um Pet-Shop ficticio <br><br>
+<summary>Descrição</summary>
+
+  <h4>
+    Este é um site do 'Mi-Au' Pet-Shop, um petshop ficticio  criado com o intuito de praticar as 
+  tecnologias ja conhecidas por mim, mas tambem para aprender coisas novas, nesse caso aprimorar as habilidades com CSS!
+
+</h4>
+
+<br>
+</details>
+
 
 # Git https://andre-voronhuk.github.io/DWEB/RDE06-Andre_Voronhuk_Git.html
 ## site sobre Git e GitHub<br><br>
