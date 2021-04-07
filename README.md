@@ -1,12 +1,11 @@
 # Aqui estão os principais sites!
-<details>
+
 <summary>Descrição</summary>
   <h4> Aqui estão os principais sites que foram feitos por mim, eles
   estão sendo frequentemente atualizados e os projetos 
     futuros também serão adicionados aqui! </h4>
 
 <br>
-</details>
 <br><br><br>
 
 ## [Mi-Au Pet-Shop](https://andre-voronhuk.github.io/petshop/index.html)
@@ -24,7 +23,7 @@
 <br><br>
 
 
-## [Git] (https://andre-voronhuk.github.io/DWEB/RDE06-Andre_Voronhuk_Git.html)
+## [Git](https://andre-voronhuk.github.io/DWEB/RDE06-Andre_Voronhuk_Git.html)
 <details>
 <summary>Descrição</summary>
 
