@@ -34,8 +34,22 @@
 <br>
 </details>
 
-# LOJA: https://andre-voronhuk.github.io/loja/
-## site sobre uma loja generica<br><br>
+
+# [Loja X](https://andre-voronhuk.github.io/loja/)
+<details>
+<summary>Descrição</summary>
+
+  <h4>
+    Este é um site de uma loja de roupas ficticia, a Loja X!<br>
+    Ele foi criado usando Bootstrap, uma tecnologia que eu nunca tinha usado antes desse projeto, Nele aprendi bastante coisa sobre alinhamento
+    e como deixar coisas onde eu realmente queria, utilizei tambem, algumas animações, como o hover nos anuncios que expandem o seu container.<br>
+    Aprendi tambem como personalizar a barra de rolagem, que é algo bastante interessante, são os pequenos detalhes que fazem a diferença no final!
+  
+</h4>
+
+<br>
+</details>
+
 
 # QUADRADOS:  https://andre-voronhuk.github.io/quadrados/
 ## Gerador de Quadrados aleatorios usando JavaScript<br><br>
