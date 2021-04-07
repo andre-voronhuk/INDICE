@@ -139,11 +139,12 @@
 
 <br>
 </details><br><br>
+<h2> *Os links acima, são do GitHub-Pages! </h2>
 
 <hr>
-# Atenção!
-## Abaixo estão os links para os REPOSITORIOS dos projetos
-## Os links acima, são do GitHub-Pages apenas.
+<h1> Atenção! </h1>
+<h2>  Abaixo estão os links para os REPOSITORIOS dos projetos <h2
+
 
 [Git](https://github.com/andre-voronhuk/git)<br><br>
 [Mi-Au Pet-Shop](https://github.com/andre-voronhuk/petshop) <br><br>
@@ -153,5 +154,5 @@
 [Promise (maioriadade)](https://github.com/andre-voronhuk/promise)<br><br>
 [Tabs Animadas](https://github.com/andre-voronhuk/HowProgram)<br><br>
 <hr>
-### Obrigado por chegar até aqui :smile::heart:
+<h3> Obrigado por chegar até aqui :smile::heart: </h3>
 
