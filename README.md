@@ -35,6 +35,20 @@
 <br>
 </details>
 <br><br>
+## [Faculdade - Web](https://andre-voronhuk.github.io/DWEB/index.html)
+<details>
+<summary>Descrição</summary>
+
+  <h4>
+   Este site tem todas as atividades desenvolvidas na materia de Desenvolvimento Web
+  <br><br> 
+  O 'Hub' (Ainda) nao foi estilizado, mas futuramente será!
+
+</h4>
+
+<br>
+</details>
+<br><br>
 
 
 ## [Loja X](https://andre-voronhuk.github.io/loja/)
@@ -153,6 +167,7 @@
 [Lista de Tarefas (to-Do List)](https://github.com/andre-voronhuk/listaDeTarefas/)<br><br>
 [Promise (maioriadade)](https://github.com/andre-voronhuk/promise)<br><br>
 [Tabs Animadas](https://github.com/andre-voronhuk/HowProgram)<br><br>
+[Faculdade - Web](https://github.com/andre-voronhuk/DWEB)<br><br>
 <hr>
 <h3> Obrigado por chegar até aqui :smile::heart: </h3>
 
