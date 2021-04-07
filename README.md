@@ -9,7 +9,7 @@
 </details>
 <br><br><br>
 
-# Pet-Shop: https://andre-voronhuk.github.io/petshop/index.html
+## [Mi-Au Pet-Shop](https://andre-voronhuk.github.io/petshop/index.html)
 <details>
 <summary>Descrição</summary>
 
@@ -21,10 +21,19 @@
 
 <br>
 </details>
+<br><br>
 
 
-# Git https://andre-voronhuk.github.io/DWEB/RDE06-Andre_Voronhuk_Git.html
-## site sobre Git e GitHub<br><br>
+## [Git] (https://andre-voronhuk.github.io/DWEB/RDE06-Andre_Voronhuk_Git.html)
+<details>
+<summary>Descrição</summary>
+
+  <h4>
+    Este é um site solicitado pelo professor de Web da faculdade, Nele está explicado o que são Git e Github de uma forma  geral!
+</h4>
+
+<br>
+</details>
 
 # LOJA: https://andre-voronhuk.github.io/loja/
 ## site sobre uma loja generica<br><br>
