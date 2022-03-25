@@ -1,8 +1,7 @@
-# Olha que legal! Você achou o indice dos meus projetos :)
+# Você achou o indice dos meus projetos :)
 
 
-  <h4> Aqui estão os principais sites que foram feitos por mim, eles
-  estão sendo frequentemente atualizados e os projetos 
+  <h4> Aqui estão os principais sites que foram feitos por mim, os projetos 
     futuros também serão adicionados aqui! </h4>
 
 <br>
@@ -24,7 +23,7 @@
 <br><br>
 
 
-## [Git](https://andre-voronhuk.github.io/DWEB/RDE06-Andre_Voronhuk_Git.html)
+## [Git]https://andre-voronhuk.github.io/DWEB/RDE6/RDE06-Andre_Voronhuk_Git.html
 <details>
 <summary>Descrição</summary>
 
@@ -36,7 +35,7 @@
 </details>
 <br><br>
 
-## [Faculdade](https://andre-voronhuk.github.io/DWEB/)
+## [Desenvolvimento WEB](https://andre-voronhuk.github.io/DWEB/)
 
 
 <details>
@@ -45,8 +44,6 @@
   <h4>
    Este site tem todas as atividades desenvolvidas na materia de Desenvolvimento Web
   <br><br> 
-  O 'Hub' (Ainda) nao foi estilizado, mas futuramente será!
-
 </h4>
 
 <br>
@@ -60,7 +57,7 @@
 
   <h4>
     Este é um site de uma loja de roupas ficticia, a Loja X!<br><br>
-    Ele foi criado usando Bootstrap, uma tecnologia que eu nunca tinha usado antes desse projeto, Nele aprendi bastante coisa sobre alinhamento
+    Ele foi criado usando Bootstrap, uma tecnologia que eu nunca tinha usado antes desse projeto, Nele aprendi muito sobre alinhamento
     e como deixar coisas onde eu realmente queria, utilizei tambem, algumas animações, como o hover nos anuncios que expandem o seu container.<br><br>
     Aprendi tambem como personalizar a barra de rolagem, que é algo bastante interessante, são os pequenos detalhes que fazem a diferença no final!
   
@@ -77,7 +74,7 @@
 
   <h4>
     Isso Mesmo! QUADRADOS!<br><br>
-    Este site é um gerador de quadrados coloridos aleatoriamente <br><br>
+    Este site gera quadrados coloridos aleatoriamente <br><br>
     No geral ele é bem simples, (E Divertido! haha) são dois botoes, 
     onde um deles cria um quadrado aleatorio, e o outro, gera infinitamente quadradinhos coloridos.
     Implementei o site usando Html (um pouquinho), Css e principalmente JavaScript que era a linguagem 
@@ -104,7 +101,7 @@
   Significa que se voce adicionar toda a sua lista de tarefas nele e fechar o seu navegador, quando voce voltar mais tarde <br> 
   ainda estarão lá todas as suas tarefas adicionadas anteriormente!
   <br><br>
-  O design nao foi um objetivo nesse projeto, ele esta bastante simples (para nao dizer Feio) pois o foco era aprender a tecnologia!
+ 
    
   
   
@@ -142,7 +139,7 @@
   <h4>
    Esse site foi desenvolvido tambem acompanhando um 'Code Drops' da RocketSeat <br>Mas dessa vez, um Code Drops focado no Design (até que enfim né? chega de site feio)
    <br><br>
-   Para fazer essa animação bonita nas tabs, foi utilizado JavaScript (sim, denovo kkk) <br><br>
+   Para fazer essa animação bonita nas tabs, foi utilizado JavaScript) <br><br>
    O site utiliza JS para alterar o estilo e tambem para capturar quando o usuario clica ou passa seu mouse sobre uma guia, e então dispara a animação correspondente
   a ação que o usuario performou. <br><br>
   Para nao utilizar o "Lorem Ipsum" por exemplo, usei o tema de 'como programar?' dando algumas dicas usando as guias personalizadas.
